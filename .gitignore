@@ -1,0 +1,16 @@
+# .gitignore
+*.pyc
+__pycache__/
+.DS_Store
+.env
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+venv/
+dist/
+build/
